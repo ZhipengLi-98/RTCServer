@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68827182-54b2-482b-9c05-0824a4cf3b04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/socketHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/socketHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/rtcClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/rtcClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/local-cam.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/remote-streams.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/remote-streams.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hIgrpY1jfbBx5JPZ9z1IE7JLz9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="routes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app/routes.js" working-dir="$PROJECT_DIR$/app">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.routes.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68827182-54b2-482b-9c05-0824a4cf3b04" name="Default Changelist" comment="" />
+      <created>1599704222338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599704222338</updated>
+      <workItem from="1599704223558" duration="21219000" />
+      <workItem from="1599848998253" duration="15368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599704329356">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1599704329356" />
+    <state x="256" y="287" width="927" height="325" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1599808799435">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="256" y="287" width="927" height="325" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1599808799435" />
+    <state x="-1209" y="465" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599843785865">
+      <screen x="-1920" y="50" width="1920" height="1080" />
+    </state>
+    <state x="-1209" y="465" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599843785865" />
+    <state width="1419" height="304" key="GridCell.Tab.0.bottom" timestamp="1600059109914">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599915350713" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/-1920.50.1920.1080/0.23.1440.877@-1920.50.1920.1080" timestamp="1599895477892" />
+    <state width="1419" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600059109914" />
+    <state width="1419" height="304" key="GridCell.Tab.0.center" timestamp="1600059109913">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.center/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599915350712" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center/-1920.50.1920.1080/0.23.1440.877@-1920.50.1920.1080" timestamp="1599895477891" />
+    <state width="1419" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600059109913" />
+    <state width="1419" height="304" key="GridCell.Tab.0.left" timestamp="1600059109908">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.left/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599915350711" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left/-1920.50.1920.1080/0.23.1440.877@-1920.50.1920.1080" timestamp="1599895477890" />
+    <state width="1419" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600059109908" />
+    <state width="1419" height="304" key="GridCell.Tab.0.right" timestamp="1600059109914">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.right/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599915350713" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right/-1920.50.1920.1080/0.23.1440.877@-1920.50.1920.1080" timestamp="1599895477892" />
+    <state width="1419" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600059109914" />
+  </component>
+</project>
