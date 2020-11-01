@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68827182-54b2-482b-9c05-0824a4cf3b04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/socketHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/socketHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/javascripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/javascripts/rtcClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/rtcClient.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/local-cam.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/remote-streams.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/remote-streams.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +27,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.app.js">
@@ -58,6 +55,11 @@
       <updated>1599704222338</updated>
       <workItem from="1599704223558" duration="21219000" />
       <workItem from="1599848998253" duration="15368000" />
+      <workItem from="1603275976300" duration="545000" />
+      <workItem from="1603276534911" duration="233000" />
+      <workItem from="1603276777616" duration="1166000" />
+      <workItem from="1603278240814" duration="3528000" />
+      <workItem from="1603447560000" duration="18585000" />
     </task>
     <servers />
   </component>
@@ -77,29 +79,37 @@
       <screen x="-1920" y="50" width="1920" height="1080" />
     </state>
     <state x="-1209" y="465" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599843785865" />
-    <state width="1419" height="304" key="GridCell.Tab.0.bottom" timestamp="1600059109914">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1257" height="400" key="GridCell.Tab.0.bottom" timestamp="1603545790407">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1899" height="304" key="GridCell.Tab.0.bottom/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599915350713" />
     <state width="1899" height="304" key="GridCell.Tab.0.bottom/-1920.50.1920.1080/0.23.1440.877@-1920.50.1920.1080" timestamp="1599895477892" />
     <state width="1419" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600059109914" />
-    <state width="1419" height="304" key="GridCell.Tab.0.center" timestamp="1600059109913">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1257" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603545790407" />
+    <state width="1257" height="400" key="GridCell.Tab.0.center" timestamp="1603545790407">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1899" height="304" key="GridCell.Tab.0.center/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599915350712" />
     <state width="1899" height="304" key="GridCell.Tab.0.center/-1920.50.1920.1080/0.23.1440.877@-1920.50.1920.1080" timestamp="1599895477891" />
     <state width="1419" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600059109913" />
-    <state width="1419" height="304" key="GridCell.Tab.0.left" timestamp="1600059109908">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1257" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603545790407" />
+    <state width="1257" height="400" key="GridCell.Tab.0.left" timestamp="1603545790407">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1899" height="304" key="GridCell.Tab.0.left/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599915350711" />
     <state width="1899" height="304" key="GridCell.Tab.0.left/-1920.50.1920.1080/0.23.1440.877@-1920.50.1920.1080" timestamp="1599895477890" />
     <state width="1419" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600059109908" />
-    <state width="1419" height="304" key="GridCell.Tab.0.right" timestamp="1600059109914">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1257" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603545790406" />
+    <state width="1257" height="400" key="GridCell.Tab.0.right" timestamp="1603545790407">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1899" height="304" key="GridCell.Tab.0.right/-1920.50.1920.1080/0.0.1440.900@-1920.50.1920.1080" timestamp="1599915350713" />
     <state width="1899" height="304" key="GridCell.Tab.0.right/-1920.50.1920.1080/0.23.1440.877@-1920.50.1920.1080" timestamp="1599895477892" />
     <state width="1419" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600059109914" />
+    <state width="1257" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603545790407" />
+    <state x="782" y="345" key="SettingsEditor" timestamp="1603277326803">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1603277326803" />
   </component>
 </project>

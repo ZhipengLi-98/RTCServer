@@ -45,7 +45,7 @@
 		return camera;
     }]);
 
-	app.controller('RemoteStreamsController', ['camera', '$location', '$http', function(camera, $location, $http){
+	app.controller('RemoteStreamsController', ['camera', '$location', '$http', '$scope', function(camera, $location, $http, $scope){
 		var rtc = this;
 		rtc.remoteStreams = [];
 		function getStreamById(id) {
@@ -68,6 +68,10 @@
 			    }
 			    // save new streams
 			    rtc.remoteStreams = streams;
+			    console.log(rtc.remoteStreams.length)
+				if (rtc.remoteStreams.length > 0) {
+					console.log(rtc.remoteStreams[0].id)
+				}
 			    // console.log(streams.length)
 			    // client.peerInit(streams[0].id);
 				// streams[0].isPlaying = true;
@@ -75,6 +79,7 @@
 		};
 
 		rtc.view = function(stream){
+			console.log('rtc.view')
 			client.peerInit(stream.id);
 			stream.isPlaying = !stream.isPlaying;
 		};
@@ -111,6 +116,24 @@
 				// });
 			}
 		};
+		angular.element(document).ready(function() {
+			$http.get('/streams.json').success(function(data){
+				// filter own stream
+				var streams = data.filter(function(stream) {
+					return stream.id != client.getId();
+				});
+				// get former state
+				for(var i=0; i<streams.length;i++) {
+					var stream = getStreamById(streams[i].id);
+					streams[i].isPlaying = (!!stream) ? stream.isPLaying : false;
+				}
+				// save new streams
+				rtc.remoteStreams = streams;
+				if (rtc.remoteStreams.length > 0) {
+					rtc.view(rtc.remoteStreams[0]);
+				}
+			});
+		})
 
 		//initial load
 		rtc.loadData();
@@ -118,6 +141,7 @@
       		rtc.call($location.url().slice(1));
     	};
 	}]);
+
 
 	// app.controller('LocalStreamController',['camera', '$scope', '$window', function(camera, $scope, $window){
 	// 	var localStream = this;
